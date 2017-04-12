@@ -1,5 +1,8 @@
 # ejs-small-project
 
+###
+ - Objective: Using your "seminar" database, populate views
+
 ### Getting started:
 In your command line, type the following:
 ```
@@ -10,8 +13,10 @@ nodemon
 ```
 
 ### Base Goal: 
- - Create the "get/show all" and supporting view.
+ - Create the "get/show all" route for professors and supporting view.
 ### Stretch Goal: 
- - Create the "get/show one" route and supporting view.
+ - Create the "get/show one" route for professors and supporting view. 
 ### Stretch Goal: 
- - Create a flow where if on the "get/show all" page, one of the entries is clicked, it is taken to the "get/show one" route.
+ - If on the "get/show all" view, one of the professors is clicked, the user is taken to the "get/show one" route for that professor, which lists all of the seminars that they are teaching at.
+### Stretch Goal:
+ - On the "get/show one" route for professors, list where that professor is from.
