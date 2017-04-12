@@ -1,7 +1,7 @@
 # ejs-small-project
 
 ###
- - Objective: Using your "seminar" database, populate views
+ - Objective: Using your "seminar" database, populate views with "get all" and "get one" routes.
 
 ### Getting started:
 In your command line, type the following:
