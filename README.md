@@ -6,7 +6,7 @@
 ### Getting started:
 In your command line, type the following:
 ```
-express miniEJSProject --ejs --view="ejs" --git
+express miniEJSProject --view=ejs --git
 cd miniEJSProject
 npm install
 nodemon
